@@ -11,6 +11,8 @@
 ```sh
 sudo apt-get update
 sudo apt-get install -y zip make cmake g++ libjemalloc-dev libboost-dev libgoogle-glog-dev
+
+apt-get install -y zip make cmake g++ libjemalloc-dev libboost-dev libgoogle-glog-dev vim net-tools
 ```
 
 # Download
